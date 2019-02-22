@@ -3,8 +3,7 @@
 Implementations of various multithreaded things
 
 # Implemented
-//Todo: add Link
-* [matrix multiplication]() - Multithreaded a simple matrix multiplication.
+* [matrix multiplication](https://github.com/Devincf/Small-Experimantal-C-Projects/tree/master/multithreading/matrixmult) - Multithreaded a simple matrix multiplication.
 
 # To-do
 * sudoku solver
